@@ -1,0 +1,36 @@
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\bin\Debug\netcoreapp2.1\ApiPremio.deps.json
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\bin\Debug\netcoreapp2.1\ApiPremio.runtimeconfig.json
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\bin\Debug\netcoreapp2.1\ApiPremio.runtimeconfig.dev.json
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\bin\Debug\netcoreapp2.1\ApiPremio.dll
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\bin\Debug\netcoreapp2.1\ApiPremio.pdb
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.csproj.CoreCompileInputs.cache
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.RazorAssemblyInfo.cache
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.RazorAssemblyInfo.cs
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.AssemblyInfoInputs.cache
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.AssemblyInfo.cs
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.RazorTargetAssemblyInfo.cache
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.dll
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.pdb
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.genruntimeconfig.cache
+C:\Users\MPR\Desktop\ApiPremio\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.csproj.AssemblyReference.cache
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\bin\Debug\netcoreapp2.1\ApiPremio.deps.json
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\bin\Debug\netcoreapp2.1\ApiPremio.runtimeconfig.json
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\bin\Debug\netcoreapp2.1\ApiPremio.runtimeconfig.dev.json
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\bin\Debug\netcoreapp2.1\ApiPremio.dll
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\bin\Debug\netcoreapp2.1\ApiPremio.pdb
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.csproj.AssemblyReference.cache
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.AssemblyInfoInputs.cache
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.AssemblyInfo.cs
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.csproj.CoreCompileInputs.cache
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.RazorAssemblyInfo.cache
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.RazorAssemblyInfo.cs
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.RazorTargetAssemblyInfo.cache
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.dll
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.pdb
+C:\Users\MPR\Desktop\api premio rentia\ApiPremio\obj\Debug\netcoreapp2.1\ApiPremio.genruntimeconfig.cache
