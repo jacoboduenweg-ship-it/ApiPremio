@@ -11,7 +11,7 @@ namespace ApiPremio
     {
         public static SqlConnection ConexionSQL()
         {
-            SqlConnection conectString = new SqlConnection(@"Server=169.197.183.51;Database=RENTIA;User Id=vales;Password=Mz374wjsRvMp;");
+            SqlConnection conectString = new SqlConnection(@"Server=;Database=;User Id=;Password=;");
 
          
             return conectString;
